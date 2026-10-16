@@ -1,5 +1,12 @@
 # Hybrid Signal Learning
 
+[![GitHub last commit](https://img.shields.io/github/last-commit/danielfdzm/Hybrid-Control-Modeling)](https://github.com/danielfdzm/Hybrid-Control-Modeling/commits/main)
+[![GitHub repo size](https://img.shields.io/github/repo-size/danielfdzm/Hybrid-Control-Modeling)](https://github.com/danielfdzm/Hybrid-Control-Modeling)
+[![Python 3.13+](https://img.shields.io/badge/Python-3.13%2B-3776AB?logo=python&logoColor=white)](pyproject.toml)
+[![PyTorch 2.10+](https://img.shields.io/badge/PyTorch-2.10%2B-EE4C2C?logo=pytorch&logoColor=white)](pyproject.toml)
+[![Jupyter notebooks](https://img.shields.io/badge/notebooks-Jupyter-F37626?logo=jupyter&logoColor=white)](notebooks/)
+[![pytest](https://img.shields.io/badge/tests-pytest-0A9EDC?logo=pytest&logoColor=white)](pyproject.toml)
+
 > **System identification library**: classical physics, machine learning, Neural ODE/SDE, and physics-informed hybrid models — all under one unified framework.
 
 This repository provides a comprehensive benchmarking suite for **nonlinear system identification** combining first-principles physics models with modern deep learning. Models range from classical linear ODEs to Neural SDEs and Mamba sequence models, all trained and evaluated through a single, consistent pipeline on the **BAB (Ball-and-Beam)** experimental datasets.
